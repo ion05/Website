@@ -55,6 +55,21 @@ nav ul li a:hover{
 .img{
   border-radius: 100%;
 }
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+border-radius: 5px;
+background: black;
+}
+::-webkit-scrollbar-thumb {
+  background: #000066;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000; 
+}
 .intro{
     background: url('https://images.pexels.com/photos/234527/pexels-photo-234527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: cover;
