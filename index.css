@@ -57,18 +57,18 @@ nav ul li a:hover{
 }
 ::-webkit-scrollbar {
   width: 10px;
-  background: #eee;
+  color: #eee;
 }
 ::-webkit-scrollbar-track {
 border-radius: 5px;
-background: #eee;
+color: #eee;
 }
 ::-webkit-scrollbar-thumb {
-  background: #111111;
+  color: #111111;
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #111111; 
+  color: #111111; 
 }
 .intro{
     background: url('https://images.pexels.com/photos/234527/pexels-photo-234527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
