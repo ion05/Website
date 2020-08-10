@@ -58,13 +58,12 @@ nav ul li a:hover{
 ::-webkit-scrollbar {
   width: 10px;
 }
-
 ::-webkit-scrollbar-track {
 border-radius: 5px;
-background: black;
+background: #eee;
 }
 ::-webkit-scrollbar-thumb {
-  background: #000066;
+  background: #111111;
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:hover {
