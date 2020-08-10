@@ -67,7 +67,7 @@ background: #eee;
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #b30000; 
+  background: #111111; 
 }
 .intro{
     background: url('https://images.pexels.com/photos/234527/pexels-photo-234527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
